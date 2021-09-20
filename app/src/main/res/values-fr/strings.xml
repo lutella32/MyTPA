@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyTPA</string>
+    <string name="your_name">Votre Nom</string>
+    <string name="start_test">Faite le Test !</string>
+    <string name="less_than_40">Moins de 40 ans</string>
+    <string name="between_40_and_60">Entre 40 et 60</string>
+    <string name="a_men">un Homme</string>
+    <string name="more_than_60">plus de 60 ans</string>
+    <string name="a_women">une femme</string>
+    <string name="next">Suivant</string>
+    <string name="how_old_are_you">Quel âge avez vous?</string>
+    <string name="you_are">Vous êtes</string>
+    <string name="userprofile">Profil Utilisateur</string>
+</resources>
